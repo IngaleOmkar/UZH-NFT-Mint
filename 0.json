@@ -1,8 +1,5 @@
 {
-  "id": 0,
   "description": "Why you always lyin?",
-  "external_url": "https://gitlab.uzh.ch/omkar.ingale/",
-  "image": "https://raw.githubusercontent.com/IngaleOmkar/UZH-NFT-Mint/refs/heads/main/fine.jpg",
-  "name": "Joking GIF",
-  "attributes": []
+  "image": "https://raw.githubusercontent.com/IngaleOmkar/UZH-NFT-Mint/main/fine.jpg",
+  "name": "Joking GIF"
 }
